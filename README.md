@@ -7,7 +7,7 @@ Art, Design, Engineering and Science.
 
 - 💼 I am currently working at Pasarpolis.io
 
-- ✍️ I am currently learning Microinteractions
+- ✍️ I am currently learning Design Patterns
 
 - 🌱  I am currently looking to collaborate on Mobile Projects
 
