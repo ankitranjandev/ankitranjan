@@ -5,7 +5,7 @@ Art, Design, Engineering and Science.
 
 **Skills:** Flutter | Android | iOS | Javascript | MERN | Graphic Design
 
-- 💼 I am currently working Social Media Apps
+- 💼 I am currently working at Pasarpolis.io
 
 - ✍️ I am currently learning Microinteractions
 
