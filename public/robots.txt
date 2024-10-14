@@ -1,0 +1,7 @@
+# Allow all search engines to crawl the site
+User-agent: *
+Disallow: /private/  # Example of a directory not to crawl
+Allow: /
+
+# Sitemap location
+Sitemap: https://ankitranjan.dev/sitemap.xml
